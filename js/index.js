@@ -53,5 +53,5 @@
         const insertionDiv = document.querySelector(".skill-flex-container");
         insertionDiv.insertAdjacentHTML("afterbegin", injectionTemplate);
     }
-    console.log(1);
+    console.log(PopulateSkills);
 })();
