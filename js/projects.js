@@ -1,0 +1,92 @@
+const skills = [
+    {
+        img: "missing-avatar.png",
+        skill: "Albert J Wong",
+        prof: "Fixed CRUD, bugs, and missing validations in the Registration and Enrollment area. Created user manual markdowns for the same area. Testing Eagle eye and creating a bug list to monitor and fix existing bugs.",
+        hobby: "Playing Frisbee, Basketball, Badminton, and Snowboarding, Computer games.Play games with my daughter and bond with my family.",
+    },
+    {
+        img: "Abhishek-Jauhari.png",
+        skill: "Abhishek Jauhari",
+        prof: "I worked on implementing student grades information using a .CSV file to the database and fixing some validations. I was also part of the presentation team and helped in putting together the PowerPoint.",
+        hobby: "Hiking, Building Computers, Gaming",
+    },
+    {
+        img: "DavidDorn.jpg",
+        skill: "David Dorn",
+        prof: "Guided and coordinated communications and meetings between GreenPoint Tech and the Indio Software Network client; worked on education delivery validations and reports; worked on the Eagle Eye final presentation.",
+        hobby: "NHL Oilers hockey, football, and technology",
+    },
+    {
+        img: "Deepak_Headshot.jpg",
+        skill: "Deepak Joy Jose",
+        prof: "Created the tickets on JIRA & coordinated the tasks assigned to the team members; implemented authorization in Eagle Eye; automated the process of applying database migrations when the app is initialized; tested & fixed the validations across the application.",
+        hobby: "Spending time with family, Learning new skills, Photography",
+    },
+    {
+        img: "Avatar4k.jpg",
+        skill: "Eugeniu Ceban",
+        prof: 'In the realization of this project I worked on the UI design, the CRUD process of the data, the validation of the data entered by the User, Seeding of the Data for the Reports, and the Testing of the application "Eagle Eye".',
+        hobby: "Fishing, Cooking, Codding",
+    },
+    {
+        img: "missing-avatar.png",
+        skill: "Hung Yi Yang ",
+        prof: "Researched and assisted with implementing QuestPDF report. Created reports for both Blank Class Mark Sheet and Class Student Attendance.  Verified and fixed missing validations in the Registration and Enrollment area.",
+        hobby: "Basketball, Video Game, Flying",
+    },
+    {
+        img: "missing-avatar.png",
+        skill: "Mujtaba Nadeem",
+        prof: "My efforts were focused on 3 areas–fixing validation & bugs across select database tables, software testing, and code generated pdf reports. ",
+        hobby: "Cooking, Running, Painting",
+    },
+    {
+        img: "missing-avatar.png",
+        skill: "Mohamed M Abdelhafiz",
+        prof: "Software Developer",
+        hobby: "-, -, -",
+    },
+    {
+        img: "Anas.png",
+        skill: "Muhammad A Rashid",
+        prof: "I worked on the reports. I set up the reports page and all the parameters associated with different reports. I also led the reports team by providing guidance and ensuring no conflicts occurred in the code. I also incorporated outputting reports in PDF format for the report team to use.",
+        hobby: "Gaming, Backpacking, Coding, Photography",
+    },
+    {
+        img: "Monty.png",
+        skill: 'Muntader "The BOSS"',
+        prof: "I was part of implementing an improved user interface and user experience. I contributed to the implementation of users and assigned their roles to test the functionalities of changes to security and role attributes.",
+        hobby: "Family, Tech, Food",
+    },
+    {
+        img: "KevinPerryHeadShotjpg.jpg",
+        skill: "Kevin G Perry",
+        prof: "Throughout this project, I have contributed to the project on many different levels and created the first report on the project status we were handed from the last capstone team. In addition, I made the Staff Attendance section and volunteered for side tickets as required.",
+        hobby: "Family, Friends, Hiking, Walks, Adventures, Outdoors",
+    },
+    {
+        img: "missing-avatar.png",
+        skill: "Karan R Bhagwani",
+        prof: "I have worked on code cleanup, parent dashboard and attendance import functionality on this project.",
+        hobby: "Playing Tennis, Skiing, and Coding.",
+    },
+    {
+        img: "missing-avatar.png",
+        skill: "Sandy Huynh",
+        prof: "I implemented validation and did testing on several pages. I helped the reports area with 2 reports and assisted with the user manual with rough drafts of a few sections.",
+        hobby: "Art, Games, Trying good food",
+    },
+    {
+        img: "Tunji's-Headshot.jpg",
+        skill: "Tunji O Iyaomiye",
+        prof: "I am the Business Analyst on the team.  I helped run the stand-up meetings to check in on status.  I also created and assigned tickets on Jira as required.  As part of the presentation team, I helped to put together the final presentation to the client and Capstone Instructor.",
+        hobby: "I enjoy spending time with family, learning new things, and driving.",
+    },
+    {
+        img: "Tylan.jpg",
+        skill: "Tylan Broomfield ",
+        prof: "I played a supporting role in which I helped update components the front end of the EagleEye network, as well as implemented the functionality of the elder dashboard! This included resolving an outstanding bug involving the logged in elder not displaying the proper students within a band. I also assisted with the creation of the user manual.",
+        hobby: "Cooking, Snow Boarding, Video games, Film",
+    },
+];
